@@ -151,6 +151,14 @@ app/src/main/
 
 ---
 
+## 📸 Output Screenshots
+
+| Splash Screen | Tween Rotation | Main Activity (Frame 1) | Main Activity (Frame 2) |
+|:---:|:---:|:---:|:---:|
+| ![Splash Screen](Screenshot/Screenshot_20260930_233354.png) | ![Tween Rotation](Screenshot/Screenshot_20260930_234329.png) | ![Main Activity 1](Screenshot/Screenshot_20260930_233416.png) | ![Main Activity 2](Screenshot/Screenshot_20260930_233430.png) |
+
+---
+
 ## 📄 License
 
 This project is created for academic purposes as part of the MAD course at UVPCE.
